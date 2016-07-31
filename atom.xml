@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://rakedeploy.github.io/atom.xml" rel="self"/>
+  <link href="http://rakedeploy.github.io/"/>
+  <updated>2016-08-01T01:14:07+07:00</updated>
+  <id>http://rakedeploy.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress Is Complete]]></title>
+    <link href="http://rakedeploy.github.io/blog/2016/08/01/octopress-is-complete/"/>
+    <updated>2016-08-01T01:08:35+07:00</updated>
+    <id>http://rakedeploy.github.io/blog/2016/08/01/octopress-is-complete</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
